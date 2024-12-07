@@ -28,10 +28,10 @@ Antes de executar o script, certifique-se de que seu ambiente atenda aos seguint
 Execute o comando abaixo para instalar as bibliotecas necessárias:
 
 ```bash
-pip install selenium beautifulsoup4 openpyxl
+pip install selenium beautifulsoup4 openpyxl 
  ```  
 ---
-
+ 
 ## Como Usar
 
 1. **Clone ou Baixe o Repositório**: Faça o download ou clone este repositório para o seu computador.
