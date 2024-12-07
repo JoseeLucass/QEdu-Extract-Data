@@ -24,12 +24,11 @@ Antes de executar o script, certifique-se de que seu ambiente atenda aos seguint
 3. **Driver do Selenium**: Baixe o ChromeDriver compatível com a versão do seu navegador e adicione-o ao PATH do sistema.
 
 ### Instalação de Dependências
-
+ 
 Execute o comando abaixo para instalar as bibliotecas necessárias:
 
 ```bash
-pip install selenium beautifulsoup4 openpyxl 
- ```  
+pip install selenium beautifulsoup4 openpyxl  
 ---
  
 ## Como Usar
