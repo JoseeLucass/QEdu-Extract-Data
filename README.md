@@ -29,6 +29,8 @@ Execute o comando abaixo para instalar as bibliotecas necessárias:
 
 ```bash
 pip install selenium beautifulsoup4 openpyxl
+ ```  
+---
 
 ## Como Usar
 
