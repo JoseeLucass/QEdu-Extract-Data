@@ -16,7 +16,7 @@ Este script realiza a raspagem de dados de escolas no site [QEdu](https://qedu.o
 
 Antes de executar o script, certifique-se de que seu ambiente atenda aos seguintes requisitos:
 
-1. **Python 3.x** instalado.
+1. **Python 3.8 ou superior** instalado.
 2. **Bibliotecas Python necessárias**:
    - `selenium`
    - `beautifulsoup4`
